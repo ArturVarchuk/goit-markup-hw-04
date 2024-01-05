@@ -175,7 +175,7 @@ max-width: 496px;
         .button:focus {background-color:#404BBF;}
         
         /* Section 2 */
-.section-feature {padding: 0 0;}
+.section-feature {padding: 120px;}
 
 .feature-item {
     display: flex;
@@ -449,7 +449,9 @@ padding: 0 0;
      background-color: #31D0AA;}
 
    .container.footer {display: flex;
-    align-items: baseline;}
+    align-items: baseline;
+    padding-top: 100px;
+    padding-bottom: 100px;}
 
     .footer-box {margin-right: 120px;}
 
